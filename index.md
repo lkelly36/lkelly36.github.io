@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+## About Me
 
-You can use the [editor on GitHub](https://github.com/lkelly36/lkelly36.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I'm currently studying a PhD course in Data Analytics and Society at the [University of Manchester.](https://manchester.ac.uk) 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Research Interests
 
-### Markdown
+My PhD project's working title is 'an automated platform for forensic data testing'. I aim to use machine learning to create a model that uses forensic data to accurately predict whether somebody is guilty or not guilty.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I have previously completed a master's dissertation which investigated predictors of adolescent alcohol, smoking and drug use behaviours in the UK. 
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lkelly36/lkelly36.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Prior to this I conducted research into drinking motives and personality traits in adults as predictors of binge drinking.
