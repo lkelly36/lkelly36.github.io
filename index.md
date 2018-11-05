@@ -1,15 +1,9 @@
----
-layout: frontpage
-title: Louise Kelly
-description: Louise Kelly is a student at the University of Manchester, currently studying an integrated PhD in Data Analytics and Society.
----
+@@ -1,10 +1,12 @@
+## About Me
 
-<div class="navbar">
-  <div class="navbar-inner">
-      <ul class="nav">
-          <li><a href="https://github.com/lkelly36">github</a></li>
-          <li><a href="https://kbroman.org/project">Project</a></li>
-          <li><a href="https://twitter.com/LouiseKelly_1">@LouiseKelly_1</a></li>
-      </ul>
-  </div>
-</div>
+My name is Louise Kelly and I am a 23-year-old student from a small town on the outskirts of Liverpool. I have previously completed a bachelor's degree in Psychology at [University of Liverpool](https://liverpool.ac.uk), before attending [University of Manchester](https://manchester.ac.uk) to study a master's degree in Social Research Methods and Statistics. I have recently finished the master's course and began studying an 4-year integrated PhD in Data Analytics and Society at the [University of Manchester.](https://manchester.ac.uk)
+
+## Research Interests
+
+- My PhD project's working title is *'an automated data analytics platform for forensic testing'*. I aim to use machine learning to create a model that uses forensic data to accurately predict whether somebody is guilty or not guilty.
+ - I have previously completed a master's dissertation which investigated predictors of adolescent alcohol, smoking and drug use behaviours in the UK. 
