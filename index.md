@@ -1,21 +1,23 @@
+<!DOCTYPE html>
 <html>
 	<head>
 		<title>Louise Kelly</title>
+		<!-- link to main stylesheet -->
+		<link rel="stylesheet" type="text/css" href="/css/main.css">
 	</head>
 	<body>
 		<nav>
     		<ul>
         		<li><a href="/">Home</a></li>
-	        	<li><a href="/About">About</a></li>
-        		<li><a href="/Research">CV</a></li>
-        		<li><a href="/Blog">Blog</a></li>
+	        	<li><a href="/about">About</a></li>
+        		<li><a href="/research">Research</a></li>
+        		<li><a href="/blog">Blog</a></li>
     		</ul>
 		</nav>
 		<div class="container">
     		<div class="blurb">
-        		<h1>Hi there, Louise Kelly!</h1>
-				<p>I'm a Data Analytics and Society Integrated PhD. student at University of Manchester. 
-					<a href="/about">Read more about my research and interests here...</a></p>
+        		<h1>Hi there, I'm Louise Kelly!</h1>
+				<p>I'm a Data Analytics and Society Integrated PhD. student at University of Manchester. <a href="/about">Read more about my life...</a></p>
     		</div><!-- /.blurb -->
 		</div><!-- /.container -->
 		<footer>
