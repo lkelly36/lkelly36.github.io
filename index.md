@@ -1,8 +1,15 @@
 ---
-layout: default
-title: Louise Kelly's website
+layout: frontpage
+title: Louise Kelly
+description: Louise Kelly is a student at the University of Manchester, currently studying an integrated PhD in Data Analytics and Society.
 ---
-<div class="blurb">
-	<h1>Hi, my name is Louise Kelly. Welcome to my website. </h1>
-	<p>I'm currently a student at the University of Manchester studying an intergrated PhD in Data Analytics and Society <a href="/about">Read more about me here...</a> or <a href="/Research">click here for more on my research...</a></p>
-</div><!-- /.blurb -->
+
+<div class="navbar">
+  <div class="navbar-inner">
+      <ul class="nav">
+          <li><a href="https://github.com/lkelly36">github</a></li>
+          <li><a href="https://kbroman.org/project">Project</a></li>
+          <li><a href="https://twitter.com/LouiseKelly_1">@LouiseKelly_1</a></li>
+      </ul>
+  </div>
+</div>
