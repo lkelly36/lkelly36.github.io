@@ -1,2 +1,4 @@
 name: Louise Kelly
 markdown: kramdown
+plugins:
+  - jekyll-sitemap
