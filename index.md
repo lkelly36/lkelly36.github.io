@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
 	<head>
 		<title>Louise Kelly</title>
@@ -17,7 +17,7 @@
 		<div class="container">
     		<div class="blurb">
         		<h1>Hi there, I'm Louise Kelly!</h1>
-				<p>I'm a Data Analytics and Society Integrated PhD. student at University of Manchester. <a href="/about">Read more about my life...</a></p>
+				<p>I'm a Data Analytics and Society Integrated PhD. student at the University of Manchester. <a href="/about">Read more about my life...</a></p>
     		</div><!-- /.blurb -->
 		</div><!-- /.container -->
 		<footer>
