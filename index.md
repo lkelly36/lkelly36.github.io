@@ -1,4 +1,6 @@
 <h1>Welcome to Louise Kelly's website.</h1>
+<!-- link to main stylesheet -->
+		<link rel="stylesheet" type="text/css" href="/css/main.css">
 
 ## About Me
 
