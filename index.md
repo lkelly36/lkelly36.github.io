@@ -1,3 +1,4 @@
+![Louise Kelly's photo](githubimage.png)
 ## About Me
 
 My name is Louise Kelly and I am a 23-year-old student Liverpool. I have previously completed a bachelor's degree in Psychology at 
