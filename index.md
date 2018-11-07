@@ -1,12 +1,19 @@
-![Louise Kelly's photo](githubimage.png)
-## About Me
+---
+layout: default
+title: Louise Kelly's website
+---
+<div class="row marketing">
+	<h1>Welcome to Louise Kelly's website.</h1>
+	<!-- link to main stylesheet -->
+		<link rel="stylesheet" type="text/css" href="/css/main.css">
+	<h2?<p>A current PhD student at University of Manchester with interests in forensic testing, coding and data analytics. </h2></p>
 
-My name is Louise Kelly and I am a 23-year-old student from Liverpool. I have previously completed a bachelor's degree in Psychology at 
-[University of Liverpool](https://liverpool.ac.uk), before attending [University of Manchester](https://manchester.ac.uk) in 2017 to study
-a master's degree in Social Research Methods and Statistics. I have recently finished the master's course and began studying an integrated 
-PhD in Data Analytics and Society, which is also at the [University of Manchester.](https://manchester.ac.uk)
+  <a href="/about">Click here to read more about myself...</a></p>
+  <a href="/research">Click here to read about my research...</a></p>
+  <a href="/blog">Click here for my latest blogs...</a></p>
 
-## Research Interests
+<h3>Contact details and links to my other pages are displayed below.</h3>
+- [Email](mailto:louise.kelly-2@postgrad.manchester.ac.uk)
+- [Twitter](https://twitter.com/louisekelly_1)
 
-- My PhD project's working title is *'an automated data analytics platform for forensic testing'*. I aim to use machine learning to create a model that uses forensic data to accurately predict whether somebody is guilty or not guilty.
-- I have previously completed a master's dissertation which investigated predictors of adolescent alcohol, smoking and drug use behaviours in the UK. 
+</div>
