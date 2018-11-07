@@ -13,7 +13,7 @@ title: Louise Kelly's website
   <a href="/blog">Click here for my latest blogs...</a></p>
 
 <h3>Contact details and links to my other pages are displayed below.</h3>
-- [Email](mailto:louise.kelly-2@postgrad.manchester.ac.uk
-- [Twitter](https://twitter.com/louisekelly_1
+- [Email](mailto:louise.kelly-2@postgrad.manchester.ac.uk)
+- [Twitter](https://twitter.com/louisekelly_1)
 
 </div>
