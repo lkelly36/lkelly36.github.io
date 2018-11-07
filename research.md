@@ -1,9 +1,12 @@
 ---
 title: Research Interests
 ---
+<!--Page theme shown in _config.yml file as 'Jekyll Minimal' theme by GitHub user OrderedList (https://github.com/orderedlist/minimal). All content below is my work.-->
 
+<!--Page header-->
 # Current Project
 
+<!--Project title header in italics-->
 ### *'An automated data analytics platform for forensic testing'*
 
 My PhD project will use forensic data such as hair samples in order to create a data analytics tool that can be used to accurately predict
@@ -19,11 +22,14 @@ potentially lose custody of their child. If the wrong decision is made in such c
 the parent may wrongly lose their child, and a child loses their parent. On the other hand a child could be left in danger with a parent
 who is taking drugs but has been wrongly dismissed. The hope is that the tool I create can reduce or even eradicate these risks.
 
+<!--Supervisors in bold-->
 **Supervisors**
 
+<!--Links to supervisors university webpages-->
 - My main supervisor for this project is [Dr. Richard Allmendinger.](https://www.research.manchester.ac.uk/portal/richard.allmendinger.html)
 - My co-supervisor is [Dr. Yu-Wang Chen.](https://www.research.manchester.ac.uk/portal/yu-wang.chen.html)
 
+<!--Partner organisation in bold-->
 **Partner Organisation**
 
 The partner organisation for this project is Forensic Testing Services. Click the image below to find out more.
