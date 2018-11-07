@@ -4,7 +4,10 @@ theme: default
 
 # Welcome to Louise Kelly's website.
 
-## *A current PhD student at the University of Manchester, with interests in forensic testing, coding and data analytics.*
+## *A current PhD student with interests in forensic testing, coding and data analytics.* 
+*Find out more about my current research using the links listed below.*
+
+### Links to other pages:
 
 - [Click here to read more about myself...](https://lkelly36.github.io/about)
 - [Click here to read about my current research...](https://lkelly36.github.io/research)
