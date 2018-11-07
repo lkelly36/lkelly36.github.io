@@ -16,3 +16,7 @@ theme: default
 ### Contact details and links to my other pages are displayed below.
 - [Email](mailto:louise.kelly-2@postgrad.manchester.ac.uk)
 - [Twitter](https://twitter.com/louisekelly_1)
+
+
+
+![University of Manchester Logo](manlogo.png) ![ESRC logo](esrclogo.png)
