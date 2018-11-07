@@ -2,8 +2,13 @@
 layout: default
 title: About Me
 ---
+
+<!--Page theme shown in _config.yml file as 'Jekyll Minimal' theme by GitHub user OrderedList (https://github.com/orderedlist/minimal). All content below is my work.-->
+
+<!--Page header-->
 # About Me
 
+<!--Image of me-->
 ![Louise Kelly's photo](githubimage.png)
 
 My name is Louise Kelly and I am a 23-year-old student from Liverpool. I have previously completed a bachelor's degree in Psychology at 
