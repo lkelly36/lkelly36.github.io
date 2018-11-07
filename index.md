@@ -23,4 +23,4 @@ theme: default
 
 
 <!--Uni of Manchester and ESRC logos-->
-![University of Manchester Logo](manlogo.png) ![ESRC logo](esrclogo.png)
+![University of Manchester Logo](manlogo.png)         ![ESRC logo](esrclogo.png)
