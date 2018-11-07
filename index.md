@@ -10,6 +10,6 @@ theme: default
 - [Click here to read about my current research...](https://lkelly36.github.io/research)
 
 
-###Contact details and links to my other pages are displayed below.
+### Contact details and links to my other pages are displayed below.
 - [Email](mailto:louise.kelly-2@postgrad.manchester.ac.uk)
 - [Twitter](https://twitter.com/louisekelly_1)
