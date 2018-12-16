@@ -15,7 +15,7 @@ theme: default
 
 - About Me - [Click here to read more about myself...](https://lkelly36.github.io/about)
 - Research - [Click here to read about my current research...](https://lkelly36.github.io/research)
-- Current Projects - [Click here to read about my past projects...](https://lkelly36.github.io/projects)
+- Projects - [Click here to read about my past projects...](https://lkelly36.github.io/projects)
 
 <!--Subheading and contact details links-->
 ### Contact details and links to my other pages are displayed below.
